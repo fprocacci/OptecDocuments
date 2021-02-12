@@ -1,0 +1,109 @@
+Transmittal Report:
+Created by AutoCAD eTransmit Tuesday, September 15, 2015, 1:47 PM.
+
+Drawing:
+This is a transmittal based on multiple drawings.
+
+Files:
+
+
+Root Drawings:	0052_T.0.000.dwg
+	0052_T.0.800.dwg
+	0052_T.0.106(FLOOR PLAN).dwg
+	0052_T.0.206(RCP).dwg
+	0052_T.0.300.dwg
+
+AutoCAD Font Map References:
+	acad.fmp
+
+AutoCAD Compiled Shape References:
+	simplex.shx
+	romans.shx
+	bold.shx
+	txt.shx
+	ltypeshp.shx
+	hand1.shx
+	special.shx
+
+TrueType font file References:
+	arial.ttf
+	ARIALN.TTF
+	dutcheb.ttf
+	txt_____.ttf
+
+JPEG image References:
+	Simple_Metal_Mtl_Break_pattern.jpg
+	Simple_Metal_Mtl_Brush_pattern.jpg
+	Simple_Metal_Mtl_CheckerPlate_pattern.jpg
+	Simple_Metal_Mtl_DiamondPlate_pattern.jpg
+	Woods - Plastics.Finish Carpentry.Wood.White Ash.bump.jpg
+	Doors - Windows.Metal Doors - Frames.Aluminum Frame.Anodized.Dark Bronze.Satin.jpg
+	Doors - Windows.Metal Doors - Frames.Steel.Galvanized.jpg
+	Doors - Windows.Wood Doors.Ash.jpg
+	Finishes.Gypsum Board.Painted.White.bump.jpg
+	Finishes.Gypsum Board.Painted.White.jpg
+	Finishes.Metal Framing Systems.Stud.jpg
+	Finishes.Painting.Paint.Bump.jpg
+	Masonry.Stone.Granite.Square.Stacked.Polished.Copper-Black.jpg
+	Masonry.Stone.Travertine.Cream.jpg
+
+Microsoft Excel Worksheet References:
+	TDSi_AMERICAN EAGLE  - T DRAWING INDEX.xlsx
+
+AutoCAD Color-dependent Plot Style Table File References:
+	XEROX.ctb
+
+AutoCAD Plotter Configuration File References:
+	DWG To PDF.pc3
+
+PNG image References:
+	Furnishings.Fabrics.Canvas.bump.png
+	Metal_15.png
+	Woods & Plastics.Finish Carpentry.Wood.Maple.png
+	Metals.Ornamental Metals.Aluminum.Brushed.Random.png
+
+The following files were excluded from the transmittal:
+	Mats\
+	AEOmonochrome.ctb
+	times.ttf
+	aeoarcht.(shx,ttf)
+	GOTHICB.TTF
+	romantic.ttf
+	pala.ttf
+	palabi.ttf
+	archquik.(shx,ttf)
+	archtitl.(shx,ttf)
+
+The following files could not be located:
+	Mats\
+	AEOmonochrome.ctb
+	aeoarcht.(shx,ttf)
+	archquik.(shx,ttf)
+	archtitl.(shx,ttf)
+
+
+Conversion:
+All drawing files were converted to AutoCAD 2010/LT 2010 format.
+
+
+Notes for distribution:
+
+.SHX fonts:
+Please copy these fonts to the AutoCAD Fonts directory and check with the font manufacturer about distribution rights.  Fonts supplied with AutoCAD are freely distributable.
+
+.TTF fonts:
+TTF fonts must be registered with the Operating System.  To register, copy these files to the system fonts folder or use the fonts application in the Control Panel.  Check with the font manufacturer about distribution rights.  Fonts supplied with AutoCAD are freely distributable.
+
+.PC3 printer configuration files:
+Please copy these files to the AutoCAD Printer Configuration Search Path directory.
+
+.CTB/.STB plot style tables:
+Please copy these files to the AutoCAD Plot Style Table Search Path directory.
+
+Material texture files:
+Please copy these files to the AutoCAD Texture Maps Search Path directory.
+
+The AutoCAD variable FONTALT was set to:
+C:\Users\MCHARAPAKHA.ADT\appdata\roaming\autodesk\autocad 2014\r19.1\enu\support\simplex.shx
+Please make sure that the FONTALT variable is set to this file or an equivalent before opening any drawings.  All text styles with missing fonts are automatically set to this font.
+

@@ -1,0 +1,38 @@
+Conversion Report:
+Created by DWG TrueView DWG Convert Friday, January 29, 2021, 2:56 PM.
+
+Conversion Summary
+------------------
+Conversion File Format:  AutoCAD 2010/LT 2010 Drawing Format
+Conversion package type: In-place (overwrite files)
+Converted DWG files:     11
+Recovered DWG files:     0
+Conversion errors:       0
+
+
+Converted Files
+---------------
+Root Drawings:
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\8TH FLOOR TELECOM OVERHEAD ROUTING PLAN-Reflected Ceiling Plan - 8TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\7TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\8TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\8TH FLOOR TELECOM OVERHEAD ROUTING PLAN-Legend - Routing - Overhead - 8th Floor.dwg
+
+DWG External References:
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\8TH FLOOR TELECOM OVERHEAD ROUTING PLAN-18433-1 - AEO NY - CENTRAL-rvt-1-8TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\8TH FLOOR TELECOM OVERHEAD ROUTING PLAN-5649_structural model_2019-rvt-1-8TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\7TH FLOOR TELECOM OVERHEAD ROUTING PLAN-Reflected Ceiling Plan - 7TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\7TH FLOOR TELECOM OVERHEAD ROUTING PLAN-18433-1 - AEO NY - CENTRAL-rvt-1-7TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\7TH FLOOR TELECOM OVERHEAD ROUTING PLAN-5649_structural model_2019-rvt-1-7TH FLOOR TELECOM OVERHEAD ROUTING PLAN.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\7TH FLOOR TELECOM OVERHEAD ROUTING PLAN-Reflected Ceiling Plan - 7TH FLOOR TELECOM OVERHEAD CABLE TRAY.dwg
+	J:\Optec Documents\American Eagle\7th and 8th Floors\Original Documents\AOE DWG2\8TH FLOOR TELECOM OVERHEAD ROUTING PLAN-Reflected Ceiling Plan - 8TH FLOOR TELECOM OVERHEAD CABLE TRAY.dwg
+
+
+
+Notes for conversion
+--------------------
+.DWG external reference files:
+External reference (xref) paths may be present.  Make sure these paths work or that the root drawing is using the correct references.
+
+DWGConvert does not include files required by xrefs unless they are also required by the root drawing.  In particular, plot style tables and overlay xrefs that are not used by the root drawing are omitted
+
